@@ -8,8 +8,8 @@
 ---
 
 ### 🧠 About Me
-- 🎓 Computing student at **Singapore Institute of Technology (SIT)**
-- 💻 Interested in **Cybersecurity**, **System Administration**, and **Full-Stack Development**
+- 🎓 Software Engineering student at **Singapore Institute of Technology (SIT)**
+- 💻 Interested in **Cybersecurity**, **System Administration**, and **Web/Mobile Development**
 - 🌍 Building projects that combine **tech + community impact**
 - 🎨 Lover of **clean UI**, **structured code**, and **creative problem-solving**
 
@@ -51,7 +51,7 @@
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yourlinkedin/">🌐 LinkedIn</a> •
-  <a href="mailto:youremail@example.com">📧 Email</a> •
-  <a href="https://yourportfolio.com">💻 Portfolio</a>
+  <a href="https://www.linkedin.com/in/tan-valerie/">🌐 LinkedIn</a> •
+  <a href="mailto:valerietan742@gmail.com">📧 Email</a> •
+  <a href="https://07valerietan04.wixsite.com/valerie-tan">💻 Portfolio</a>
 </p>
